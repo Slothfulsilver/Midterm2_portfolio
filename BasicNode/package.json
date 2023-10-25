@@ -1,0 +1,21 @@
+{
+  "name": "node-testing",
+  "version": "1.0.0",
+  "description": "Testting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node"
+  ],
+  "author": "Silver",
+  "license": "ISC",
+  "dependencies": {
+    "star-wars-quotes": "^1.0.2",
+    "superhero": "^2.13.7",
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.1.0"
+  }
+}
